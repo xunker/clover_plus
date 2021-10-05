@@ -45,11 +45,14 @@ Case for the RepRap Discount display is the [Case for the Full Graphic Smart LCD
 
 The case for the RAMPS electronics is [Dasaki Ramps 1.4 Enclosure / Box / Case](https://www.thingiverse.com/thing:761806).
 
-### a>Z-Axis Brace
+### Z-Axis Brace
 
 The [CloverPlus Smooth Rod Brace](https://www.thingiverse.com/thing:4982844), designed by me to reduce z-axis sway.
 
-## a>Non-printed bits
+### Belt Clips
+
+[Tough Belt Clip](https://www.thingiverse.com/thing:212873).
+## Non-printed bits
 
 ### Rods
 
@@ -61,11 +64,18 @@ Standard LM8UU bearings.
 
 ### Extruder
 
-Some MK8 kockoff from Amazon, connected to a beefy (but ungeared) stepper.
+Some [MK8 kockoff from Amazon](https://www.amazon.com/gp/product/B0196B285I), connected to [a beefy (but ungeared) stepper](https://www.amazon.com/gp/product/B00PNEQKC0).
 
+### Tower Steppers
+
+[NEMA 17 Steppers](http://www.amazon.com/dp/B00Y2HGJV6).
+
+### Belts and Pulleys
+
+[GT2 Belts and pulleys](http://www.amazon.com/dp/B0185D1OYY).
 ### Power Supply and electronics
 
-Power supply is an old XBox 360 PS from a second-hand store. Control hardware is basic RAMPS 1.4 setup (Bigtreetech I think).
+Power supply is an old XBox 360 PS from a second-hand store. Control hardware is a [basic RAMPS 1.4 setup](http://www.amazon.com/dp/B0111ZSS2O).
 
 ### Delta Arms
 
@@ -77,5 +87,5 @@ Some random 120mm (3mm thick) borosilicate plate. Previously I was using a 7-inc
 
 ### Hot end
 
-Some random V6-clone from eBay. Cooling is currently handled by a [Haldis cooling shroud](https://www.amazon.com/dp/B08Z713MSK).
+Some [random V6-clone from Amazon](https://www.amazon.com/gp/product/B017U32SWW). Cooling is currently handled by a [Haldis cooling shroud](https://www.amazon.com/dp/B08Z713MSK).
 
