@@ -9,6 +9,10 @@ This repo is a clearinghouse of everything about that printer so you can build o
 
 "Make" on thingiverse: https://www.thingiverse.com/make:208007
 
+## Marlin Config
+
+I'm still using an ancient build of Marlin (1.1.0 RC5) on an ancient RAMPS clone, but it works just fine. You can find details of my Marlin config on [MARLIN.md](MARLIN.md).
+
 ## Printed Parts
 
 My printer is a hodge-podge of parts from different versions, parts that just fit, or parts I've designed myself.
