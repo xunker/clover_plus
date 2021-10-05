@@ -9,39 +9,9 @@ This repo is a clearinghouse of everything about that printer so you can build o
 
 "Make" on thingiverse: https://www.thingiverse.com/make:208007
 
-## Parts
+## Printed Parts
 
 My printer is a hodge-podge of parts from different versions, parts that just fit, or parts I've designed myself.
-
-### Non-printed bits
-
-#### Rods
-
-Although I started the design using 5/16 smooth rod, I quickly came to my senses and switched to standard 8mm smooth rod.
-
-#### Bearings
-
-Standard LM8UU bearings.
-
-#### Extruder
-
-Some MK8 kockoff from Amazon, connected to a beefy (but ungeared) stepper.
-
-#### Power Supply and electronics
-
-Power supply is an old XBox 360 PS from a second-hand store. Control hardware is basic RAMPS 1.4 setup (Bigtreetech I think).
-
-#### Delta Arms
-
-Some random 217mm carbon fiber arms, I can't remember where from. I should use shorter arms, but these were cheaper at the time.
-
-#### Glass Bed
-
-Some random 120mm (3mm thick) borosilicate plate. Previously I was using a 7-inch round mirror from a craft store.
-
-#### Hot end
-
-Some random V6-clone from eBay. Cooling is currently handled by a [Haldis cooling shroud](https://www.amazon.com/dp/B08Z713MSK).
 
 ### Chassis
 
@@ -70,3 +40,38 @@ Case for the RepRap Discount display is the [Case for the Full Graphic Smart LCD
 ### RAMPS case
 
 The case for the RAMPS electronics is [Dasaki Ramps 1.4 Enclosure / Box / Case](https://www.thingiverse.com/thing:761806).
+
+### Z-Axis Brace
+
+The [CloverPlus Smooth Rod Brace](https://www.thingiverse.com/thing:4982844), designed by me to reduce z-axis sway.
+
+## Non-printed bits
+
+### Rods
+
+Although I started the design using 5/16 smooth rod, I quickly came to my senses and switched to standard 8mm smooth rod.
+
+### Bearings
+
+Standard LM8UU bearings.
+
+### Extruder
+
+Some MK8 kockoff from Amazon, connected to a beefy (but ungeared) stepper.
+
+### Power Supply and electronics
+
+Power supply is an old XBox 360 PS from a second-hand store. Control hardware is basic RAMPS 1.4 setup (Bigtreetech I think).
+
+### Delta Arms
+
+Some random 217mm carbon fiber arms, I can't remember where from. I should use shorter arms, but these were cheaper at the time.
+
+### Glass Bed
+
+Some random 120mm (3mm thick) borosilicate plate. Previously I was using a 7-inch round mirror from a craft store.
+
+### Hot end
+
+Some random V6-clone from eBay. Cooling is currently handled by a [Haldis cooling shroud](https://www.amazon.com/dp/B08Z713MSK).
+
