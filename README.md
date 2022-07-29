@@ -31,7 +31,7 @@ Clamps from [CloverPlus v2](https://www.thingiverse.com/thing:1374313).
 
 ### Effector and collar
 
-Effector is [Kossel mini Effector for E3d v6 Hotend](https://www.thingiverse.com/thing:642167). Collar is, I think, a [Mini Kossel groove mount](https://www.thingiverse.com/thing:108023).
+Effector is [Kossel mini Effector for E3d v6 Hotend](https://www.thingiverse.com/thing:642167). Collar is, I think, either [E3D v6 hotend complete mount (with groove) for Kossel mini 3D printer](https://www.thingiverse.com/thing:671250) or [Mini Kossel groove mount](https://www.thingiverse.com/thing:108023).
 
 ### Filament Spool
 
